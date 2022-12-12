@@ -42,6 +42,8 @@ CREATE TABLE owners (
   age int
 );
 
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
 CREATE INDEX owner_email_asc ON owners(email);
 
 -- species
