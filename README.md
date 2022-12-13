@@ -51,14 +51,6 @@ In this project, I use a relational database to create the initial data structur
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link]()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -183,6 +175,22 @@ Feel free to check the [issues page](https://github.com/Daron976/vet/issues).
 If you like this project...
 
 Feel free to give it a start
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+👤 **Derrick Mulinde**
+
+- GitHub: [@githubhandle](https://github.com/inspecta)
+- Twitter: [@twitterhandle](https://twitter.com/djmulinde)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mulinde-derrick/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
